@@ -1,0 +1,4 @@
+# cnblogs-PicPlugin
+博客园markdown编辑器外部图片导入chrome插件
+
+可将markdown代码中第三方网站的图片同步到博客园上。
